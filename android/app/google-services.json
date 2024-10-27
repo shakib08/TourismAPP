@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "81840245229",
+    "project_id": "tuitionmedia-af0bf",
+    "storage_bucket": "tuitionmedia-af0bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81840245229:android:9e0acc7970fedc13deffe4",
+        "android_client_info": {
+          "package_name": "com.example.tuition_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt7ijwIvOZ7NttmGrQ3pdhHZhIHWAv2sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
